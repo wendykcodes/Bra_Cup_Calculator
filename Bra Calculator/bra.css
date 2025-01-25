@@ -70,7 +70,6 @@ body {
     border: none;
     font-size: 1rem;
     border-radius: 5px;
-  }
 }
 
 .form form {
@@ -110,9 +109,9 @@ body {
     font-family: "Lily Script One","Poppins", serif;
 }
 
-.copyright img {
+/* .copyright img {
     padding-top: ;
-}
+} */
 
 #result {
     padding: 20px 0 ;
